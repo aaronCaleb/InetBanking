@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/nkuma/Documents/EbankingProject/inetbanking/src/test/java/com/inetbanking/testcases/TC_LoginTest_001.java">
+        <classes>
+            <class name="com.inetbanking.testcases.TC_LoginTest_001">
+                <methods>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
